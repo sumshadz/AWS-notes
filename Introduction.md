@@ -33,3 +33,7 @@ e.g. AWS S3, AWS EC2, etc.
 
 ![image](https://github.com/sumshadz/AWS-notes/assets/129254642/4a9edd0a-5496-4ac0-95aa-2d940a2b2642)
 
+## Level of access
+![image](https://github.com/sumshadz/AWS-notes/assets/129254642/9967e5a0-4fd3-4aaa-854f-399db1312c08)
+
+
