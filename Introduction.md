@@ -36,4 +36,16 @@ e.g. AWS S3, AWS EC2, etc.
 ## Level of access
 ![image](https://github.com/sumshadz/AWS-notes/assets/129254642/9967e5a0-4fd3-4aaa-854f-399db1312c08)
 
+## Benefits of Cloud Computing
+1. Reduced IT cost
+2. Scalability
+3. Global infrastructure
+4. up-to-date
+5. Reliable data backup and data recovery
 
+## Use Cases of Cloud Computing
+1. Big data analytics
+2. Video Streaming platform
+3. Disaster Recovery
+4. Serverless Computing
+5. AI and ML as a service
