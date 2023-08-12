@@ -7,3 +7,4 @@
 - The root device for your instance contains the image used to boot the instance. The root device is either an Amazon Elastic Block Store (Amazon EBS) volume or an instance store volume.
 - When you launch an instance, the instance type that you specify determines the hardware of the host computer used for your instance. Each instance type offers different compute, memory, and storage capabilities, and is grouped in an instance family based on these capabilities.
 - Amazon EC2 provides each instance with a consistent and predictable amount of CPU capacity, regardless of its underlying hardware.
+<img width="236" alt="image" src="https://github.com/sumshadz/AWS-notes/assets/129254642/fbabb663-a768-40dc-aeae-acf99bd7e6bd">
